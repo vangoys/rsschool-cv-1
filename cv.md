@@ -10,7 +10,7 @@ Skype: +375445331090
 Linkedin: https://www.linkedin.com/in/vladimir-piskun/
 ----------  ------------------------------------------
 
-SUMMARY
+SUMMARY <!-- headline --> 
 ---------
 
 Applying for a position of a Junior Front-End Developer
@@ -24,7 +24,8 @@ Education
 2011-2016
 :   **Higher education diploma of mining engineer;
 Belarusian National Technical University,
-Transport Communication Faculty, Minsk (Belarus)**
+Transport Communication Faculty, Minsk (Belarus)** <!-- bold text --> 
+
 
 2014-2016
 :   **Postgraduate diploma of interpreter consultant;
@@ -75,7 +76,7 @@ Portfolio
 
 Job-related skills
 ---------
-
+<!-- list --> 
 * knowledge of Agile and Waterfall methodologies of project management;
 * understanding of software development process (SDLC);
 * confident skills in preparation of test documentation (test plan, checklist, test case, bug report, test result report);
