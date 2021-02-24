@@ -10,7 +10,9 @@ Skype: +375445331090
 Linkedin: https://www.linkedin.com/in/vladimir-piskun/
 ----------  ------------------------------------------
 
-SUMMARY:
+SUMMARY
+---------
+
 Applying for a position of a Junior Front-End Developer
 
 I have confident knowledge in JavaScript, HTML and CSS and considerable practical skills in coding. Well experienced in QA and User acceptance testing. I am experienced in work with SQL databases and graphic design software, such as Photoshop and Figma.
@@ -22,30 +24,30 @@ Education
 2011-2016
 :   **Higher education diploma of mining engineer;
 Belarusian National Technical University,
-Transport Communication Faculty, Minsk (Belarus)
+Transport Communication Faculty, Minsk (Belarus)**
 
 2014-2016
 :   **Postgraduate diploma of interpreter consultant;
-State Educational Institution “Academy of Postgraduate Education”, Minsk (Belarus)
+State Educational Institution “Academy of Postgraduate Education”, Minsk (Belarus)**
 
 02/2018-03/2018
 :   **Certificate of Independent Courses of Stormnet “Тестирование ПО”;
-IT academy “Stormnet”, Minsk (Belarus)
+IT academy “Stormnet”, Minsk (Belarus)**
 
 03/2018-09/2021(expected)
-:   **RSSchool Javascript/Front-end;
+:   **RSSchool Javascript/Front-end;**
 
 Experience
 ---------
 
 04/2018-12/2018
-:   **Junior QA; at Allied Testing
+:   **Junior QA** at Allied Testing
 
 12/2018-04/2019
-:   **Junior Software Developer; at Specific Group
+:   **Junior Software Developer** at Specific Group
 
 04/2019-This moment
-:   **User Acquisitor; at Xtal8
+:   **User Acquisitor** at Xtal8
 
 Professional Skills
 ---------
